@@ -1,6 +1,6 @@
 ### Welcome!
 
-My complete name is long and Italian but I rarely use it (except when I sign contracts or talk with my mamma). I go by Gian, which sounds almost like John does in English. Provided that _that_ is familiar to you.
+My complete name is long and Italian but I rarely use it (except when I sign contracts or talk with my mamma). I go by **Gian**, which sounds almost like John does in English. Provided that _that_ is familiar to you.
 
 When I have to choose a nickname I go by `sturmer` (without the umlaut) or `increatore`.
 
