@@ -1,6 +1,6 @@
 ### Hi!
 
-I work as a software engineer for a company called [Glia](https://www.glia.com/), that however used to be called Salemove and so that's the name of the organization I use on GitHub.
+I'm Gian and I work as a software engineer for [Glia](https://www.glia.com/). Since it used to be called Salemove, that's the name of the organization I belong to on GitHub.
 
 I write Elixir, Ruby, and JavaScript. I like [Racket](https://racket-lang.org/).
 
@@ -10,7 +10,7 @@ I'm a grad school dropout but I don't give up easily.
 
 #### Naming
 
-My complete name is long and Italian but I rarely use it (except when I sign contracts or talk with my mamma). I go by **Gian** (/'dʒɒn/).
+My complete name is long and Italian but I rarely use it (except when I sign contracts or talk with my mamma). I go by just **Gian** (/'dʒɒn/).
 
 When I have to choose a nickname I go by `sturmer` (without the umlaut) or `increatore`.
 
