@@ -1,4 +1,4 @@
-### Welcome!
+### Hi!
 
 I work as a software engineer for a company called [Glia](https://www.glia.com/), that however used to be called Salemove and so that's the name of the organization I use on GitHub.
 
