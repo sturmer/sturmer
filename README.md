@@ -1,12 +1,16 @@
 ### Hi!
 
-I'm Gian and I work as a software engineer for [Glia](https://www.glia.com/). Since it used to be called Salemove, that's the name of the organization I belong to on GitHub.
+I'm Gian and I work as a software engineer for [Glia](https://www.glia.com/). Glia used to be called Salemove, so that's the name of the GitHub organization I belong to.
 
-I write Elixir, Ruby, and JavaScript. I like [Racket](https://racket-lang.org/).
+I write Elixir, Ruby, and (as little as possible) JavaScript. I like [Racket](https://racket-lang.org/).
 
 Previously I've worked in hospitality, banking, urban mobility, and [Opera](https://www.opera.com/).
 
 I'm a grad school dropout but I don't give up easily.
+
+#### Web
+
+I own the domains [gergel.im](https://www.gergel.im) and [ciccarelli.dev](https://ciccarelli.dev). One is hosted by GitHub Pages, the other by Netlify. My provider is [Gandi](https://gandi.net).
 
 #### Naming
 
