@@ -2,7 +2,7 @@
 
 I'm Gian and I work as a software engineer for [Glia](https://www.glia.com/). Glia used to be called Salemove, so that's the name of the GitHub organization I belong to.
 
-I write Elixir, Ruby, and (as little as possible) JavaScript. I like [Racket](https://racket-lang.org/).
+I write in Elixir, Ruby, and (as little as possible) JavaScript. I like [Racket](https://racket-lang.org/).
 
 Previously I've worked in hospitality, banking, urban mobility, and [Opera](https://www.opera.com/).
 
