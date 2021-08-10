@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Gian and I work as a software engineer for [Glia](https://www.glia.com/). Glia used to be called Salemove, so that's the name of the GitHub organization I belong to.
+I'm Gian and I work as a software engineer for [Glia](https://www.glia.com/).
 
 I write in Elixir, Ruby, and (as little as possible) JavaScript. I like [Racket](https://racket-lang.org/).
 
@@ -16,7 +16,7 @@ I own the domains [gergel.im](https://www.gergel.im) and [ciccarelli.dev](https:
 
 My complete name is long and Italian but I rarely use it (except when I sign contracts or talk with my mamma). I go by just **Gian** (/'dʒɒn/).
 
-When I have to choose a nickname I go by `sturmer` (without the umlaut) or `increatore`.
+When I have to choose a nickname I go by `sturmer` or `increatore`.
 
 <!--
 **sturmer/sturmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
