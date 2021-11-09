@@ -19,6 +19,7 @@ My complete name is long and Italian but I rarely use it (except when I sign con
 When I have to choose a nickname I go by `sturmer` or `increatore`.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sturmer&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sturmer&langs_count=5&theme=tokyonight)]()
 
 <!--
