@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Gian and I work as a software engineer for [Glia](https://www.glia.com/).
+I'm Gian and I work as an Engineering Manager for [Glia](https://www.glia.com/).
 
 I write in Elixir, Ruby, and (as little as possible) JavaScript. I like [Racket](https://racket-lang.org/).
 
