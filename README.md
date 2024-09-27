@@ -6,7 +6,7 @@ I write code mostly in Elixir, sometimes in Ruby, and JavaScript only if I can't
 
 Before joining Glia, I've worked in [hospitality](https://amadeus.com/en), [banking](https://allitude.it/), [urban mobility](https://bolt.eu/), and [Opera](https://www.opera.com/).
 
-I'm a grad school dropout but I don't give up easily.
+I failed a few times in life but only when I wasn't given the choice to keep going.
 
 #### Web
 
