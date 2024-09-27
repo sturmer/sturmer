@@ -1,10 +1,10 @@
 ### Hi!
 
-I'm Gian and I work as an Engineering Manager for [Glia](https://www.glia.com/).
+I'm Gian and I work as a Software Engineer in [Glia](https://www.glia.com/).
 
-I write in Elixir, Ruby, and (as little as possible) JavaScript. I like [Racket](https://racket-lang.org/).
+I write code mostly in Elixir, sometimes in Ruby, and JavaScript only if I can't help it.
 
-Previously I've worked in hospitality, banking, urban mobility, and [Opera](https://www.opera.com/).
+Before joining Glia, I've worked in [hospitality]([url](https://amadeus.com/en)), [banking]([url](https://allitude.it/)), [urban mobility]([url](https://bolt.eu/)), and [Opera](https://www.opera.com/).
 
 I'm a grad school dropout but I don't give up easily.
 
