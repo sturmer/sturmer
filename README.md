@@ -4,7 +4,7 @@ I'm Gian and I work as a Software Engineer in [Glia](https://www.glia.com/).
 
 I write code mostly in Elixir, sometimes in Ruby, and JavaScript only if I can't help it.
 
-Before joining Glia, I've worked in [hospitality]([url](https://amadeus.com/en)), [banking]([url](https://allitude.it/)), [urban mobility]([url](https://bolt.eu/)), and [Opera](https://www.opera.com/).
+Before joining Glia, I've worked in [hospitality](https://amadeus.com/en), [banking](https://allitude.it/), [urban mobility](https://bolt.eu/), and [Opera](https://www.opera.com/).
 
 I'm a grad school dropout but I don't give up easily.
 
