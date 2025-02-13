@@ -6,8 +6,6 @@ I write code mostly in Elixir, sometimes in Ruby, and JavaScript only if I can't
 
 Before joining Glia, I've worked in [hospitality](https://amadeus.com/en), [banking](https://allitude.it/), [urban mobility](https://bolt.eu/), and [Opera](https://www.opera.com/).
 
-I failed a few times in life but only when I wasn't given the choice to keep going.
-
 #### Web
 
 I own the domains [gergel.im](https://www.gergel.im) and [ciccarelli.dev](https://ciccarelli.dev). One is hosted by GitHub Pages, the other by Netlify. My provider is [Gandi](https://gandi.net).
@@ -16,7 +14,7 @@ I own the domains [gergel.im](https://www.gergel.im) and [ciccarelli.dev](https:
 
 My complete name is long and Italian but I rarely use it (except when I sign contracts or talk with my mamma). I go by just **Gian** (/'dʒɒn/).
 
-When I have to choose a nickname I go by `sturmer` or `increatore`.
+When I have to choose a nickname I pick `sturmer` or `increatore`.
 
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sturmer&count_private=true&theme=tokyonight&showicons=true)]()
