@@ -8,7 +8,7 @@ Before joining Glia, I've worked in [hospitality](https://amadeus.com/en), [bank
 
 #### Web
 
-I own the domains [gergel.im](https://www.gergel.im) and [ciccarelli.dev](https://ciccarelli.dev). One is hosted by GitHub Pages, the other by Netlify. My provider is [Gandi](https://gandi.net).
+I own the domain [ciccarelli.dev](https://ciccarelli.dev), hosted by Netlify. My provider is [Gandi](https://gandi.net).
 
 #### Naming
 
