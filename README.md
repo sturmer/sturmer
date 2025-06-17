@@ -1,10 +1,8 @@
 ### Hi!
 
-I'm Gian and I work as a Software Engineer in [Glia](https://www.glia.com/).
+My name is Gian and I am a Software Engineer.
 
-I write code mostly in Elixir, sometimes in Ruby, and JavaScript only if I can't help it.
-
-Before joining Glia, I've worked in [hospitality](https://amadeus.com/en), [banking](https://allitude.it/), [urban mobility](https://bolt.eu/), and [Opera](https://www.opera.com/).
+I've worked in [hospitality](https://amadeus.com/en), [banking](https://allitude.it/), [urban mobility](https://bolt.eu/), [Glia](https://www.glia.com), and [Opera](https://www.opera.com/).
 
 #### Web
 
