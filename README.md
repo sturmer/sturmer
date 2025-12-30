@@ -10,8 +10,6 @@ I own the domain [ciccarelli.dev](https://ciccarelli.dev), hosted by Netlify. My
 
 #### Naming
 
-My complete name is long and Italian but I rarely use it (except when I sign contracts or talk with my mamma). I go by just **Gian** (/'dʒɒn/).
-
 When I have to choose a nickname I pick `sturmer` or `increatore`.
 
 <!--
