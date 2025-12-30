@@ -2,7 +2,7 @@
 
 My name is Gian and I am a Software Engineer.
 
-I've worked in [hospitality](https://amadeus.com/en), [banking](https://allitude.it/), [urban mobility](https://bolt.eu/), [Glia](https://www.glia.com), and [Opera](https://www.opera.com/).
+I've worked in [hospitality](https://amadeus.com/en), [banking](https://allitude.it/), [urban mobility](https://bolt.eu/), [customer support](https://www.glia.com), and [Opera](https://www.opera.com/).
 
 #### Web
 
